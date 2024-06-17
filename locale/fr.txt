@@ -1,0 +1,28 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Guez
+
+## Skin
+
+### Label
+label4056.text = Réhabilitation Villa
+
+## Media
+
+### Title
+panorama_2CDA359D_250E_6965_41BC_6C48B6497442.label = Cuisine
+panorama_2CDEAE35_250D_9BA4_4184_2EB4A3F46E63.label = Escalier
+panorama_2CDF38DA_250E_78EF_41B4_E03BB766F84C.label = Chambre 2
+panorama_2CDFB8A0_250E_E75B_41B1_4EDC5CD85898.label = Chambre 1
+panorama_2FDBCEED_250F_F8A4_41A1_36B89A10524E.label = Salon
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture

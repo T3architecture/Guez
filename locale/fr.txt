@@ -10,7 +10,7 @@ tour.name = Guez
 ## Skin
 
 ### Label
-label4056.text = Réhabilitation Villa
+label4056.text = Rénovation Maison
 
 ## Media
 
